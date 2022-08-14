@@ -1,0 +1,14 @@
+body {
+   overflow-x: hidden;
+    /* Hide scrollbars */
+    background-color: #F7ECDE;
+}
+
+#navbar {
+    text-decoration: none;
+    color: black;
+}
+
+.bigtext{
+    font-family: 'Times New Roman', Times, serif;
+}
